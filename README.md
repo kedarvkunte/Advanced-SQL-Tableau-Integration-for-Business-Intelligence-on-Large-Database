@@ -19,6 +19,9 @@ This database contains total 5 tables.
 
 ![Employees_Database](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/Data/employees-mod-db.PNG)
 
+
+
+
 ## Let us see how the SQL queries look like:
 
 
@@ -28,12 +31,27 @@ These SQL queries contains advanced SQL queries such as cross joins, multiple jo
 ![SQL Queries Oveerview](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/SQL/SQL%20Queries%20Overview.PNG)
 
 
+
+
+
 ## Output of the SQL queries
 
 The output of the SQL queries are then exported to the CSV files.
 CSV files are nothing but Comma Separated Values files which are text files.
 So output of each query is exported to the CSV file using Export button in MySQL Workbench.
 
+![Export the Output to CSV File](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/SQL/Query%20Outputs/SQL%20Query%20Output.PNG)
+
+
+
+
+## Visualizing Business Report using Tableau
+
+Finally we import the CSV file using Tableau.
+After importing, we can add many features so as to make the Data Visualization appealing to the client.
+
+
+![Tableau dashboard](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/Visualizing%20Business%20Report%20using%20Tableau.png)
 
 
 
