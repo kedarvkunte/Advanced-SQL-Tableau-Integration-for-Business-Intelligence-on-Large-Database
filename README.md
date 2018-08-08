@@ -15,13 +15,26 @@ This database contains total 5 tables.
 
 ## Let is see how database looks like
 
+
+
 ![Employees_Database](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/Data/employees-mod-db.PNG)
 
 ## Let us see how the SQL queries look like:
 
+
 These SQL queries contains advanced SQL queries such as cross joins, multiple joins, case statements etc.
 
+
 ![SQL Queries Oveerview](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/SQL/SQL%20Queries%20Overview.PNG)
+
+
+## Output of the SQL queries
+
+The output of the SQL queries are then exported to the CSV files.
+CSV files are nothing but Comma Separated Values files which are text files.
+So output of each query is exported to the CSV file using Export button in MySQL Workbench.
+
+
 
 
 
