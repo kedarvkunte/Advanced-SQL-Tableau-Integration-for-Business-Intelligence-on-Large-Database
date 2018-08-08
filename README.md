@@ -13,6 +13,14 @@ This database contains total 5 tables.
 | 5 | t_salaries | 869554 |
 
 
+## Let is see how database looks like
+
+![Employees Database](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/Data/employees-mod-db.pdf)
+
+## Let us het the SQL queries:
+
+
+
 
 
 
