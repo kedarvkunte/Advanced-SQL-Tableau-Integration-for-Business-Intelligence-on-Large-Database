@@ -17,7 +17,13 @@ This database contains total 5 tables.
 
 ![Employees_Database](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/Data/employees-mod-db.PNG)
 
-## Let us het the SQL queries:
+## Let us see how the SQL queries look like:
+
+These SQL queries contains advanced SQL queries such as cross joins, multiple joins, case statements etc.
+
+![SQL Queries Oveerview](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/SQL/SQL%20Queries%20Overview.PNG)
+
+
 
 
 
