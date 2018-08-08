@@ -15,7 +15,7 @@ This database contains total 5 tables.
 
 ## Let is see how database looks like
 
-![Employees_Database](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/Data/employees-mod-db.pdf)
+![Employees_Database](https://github.com/kedarvkunte/Advanced-SQL-Tableau-Integration-for-Business-Intelligence/blob/master/Data/employees-mod-db.png)
 
 ## Let us het the SQL queries:
 
